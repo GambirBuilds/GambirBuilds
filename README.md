@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gambir Jung Karki</h1>
-<h3 align="center">IT Student | Aspiring Frontend Developer | Tech Enthusiast</h3>
+<h3 align="center">IT Student | Tech Enthusiast</h3>
 
-
-- 🔭 I’m currently working on **AI personal employee.**
 
 - 🌱 I’m currently learning **Java, JavaScript, Python, React, Data Structures and Algorithms, and Linux.**
 
